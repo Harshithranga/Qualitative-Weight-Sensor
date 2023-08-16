@@ -34,7 +34,7 @@ To power the weight sensor circuit, a power supply circuit is required. This rep
 ## Usage
 
 1. Clone this repository to your local machine.
-2. Refer to the circuit diagrams in the `diagrams` directory for both the weight sensor and power supply circuits.
+2. Refer to the circuit diagrams in the PDF directory for both the weight sensor and power supply circuits.
 3. Gather the required components mentioned in the documentation.
 4. Assemble the circuits on a breadboard or design and fabricate a PCB.
 5. Follow best practices for circuit assembly, wiring, and safety precautions when dealing with electrical circuits.
